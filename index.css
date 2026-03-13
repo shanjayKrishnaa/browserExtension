@@ -17,3 +17,10 @@ button{
     padding:10px 20px;
     font-weight:bold;
 }
+
+ul{
+    list-style-type: none;
+}
+li a{
+    color:#5f9341;
+}
