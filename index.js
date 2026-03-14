@@ -1,7 +1,7 @@
 // function saveBtn(){
 //     console.log("Button clicked");
 // }
-let myLeads = ["https://google.com"];
+let myLeads = [];
 const inputEl = document.getElementById("input-el")
 const inputBtn = document.getElementById("input-btn")
 const ulEl = document.getElementById("ul-el")
